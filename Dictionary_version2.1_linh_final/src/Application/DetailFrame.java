@@ -47,7 +47,7 @@ public class DetailFrame extends javax.swing.JFrame {
         jTextArea1.setEditable(false);
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
-        jTextArea1.setText("* Bài tập lớn môn Lập trình hướng đối tượng\n* Lớp: INT2204 6 - Nhóm 1\n* Thành viên gồm:\n\t- Hoàng Thị Linh\n\t- Hà Đức Hiệp\n* App sử dụng:\n- Ngôn ngữ lập trình Java,\n- Java Swing để thiết kế giao diện,\n- IDE Netbeans trong quá trình lập trình,\n- App từ điển này dùng thư viện freetts để\nphát âm từ tiếng Anh,\n- Sử dụng dữ liệu đầu vào cho từ điển từ \nfile.\n* Link source code:\nhttps://github.com/linhht-uet/Dictionary/\ntree/master/Dictionary_ver_2.1_linh_local\n");
+        jTextArea1.setText("* Bài tập lớn môn Lập trình Java\n* Lớp: INT2204 6 - Nhóm 1\n* Thành viên gồm:\n\t- Hoàng Thị Linh\n\t- Hà Đức Hiệp\n* App sử dụng:\n- Ngôn ngữ lập trình Java,\n- Java Swing để thiết kế giao diện,\n- IDE Netbeans trong quá trình lập trình,\n- App từ điển này dùng thư viện freetts để\nphát âm từ tiếng Anh,\n- Sử dụng dữ liệu đầu vào cho từ điển từ \nfile.\n* Link source code:\nhttps://github.com/linhht-uet/Dictionary/\ntree/master/Dictionary_ver_2.1_linh_local\n");
         jScrollPane1.setViewportView(jTextArea1);
 
         jLabel1.setFont(new java.awt.Font("Arial", 3, 18)); // NOI18N
